@@ -1,15 +1,12 @@
 # Contoh Pewarna Dynamic
 
 <h1 align="center">
-	<br>
-		<br>
-			<video width="320" height="240" controls>
-				<source src="media/anton_Dynamic.mp4" type="video/mp4">
-				Your browser does not support the video tag.
-			</video>
-		<br>
-		<br>
-	<br>
+  <br>
+    Video Demo
+    <br>
+    [Tonton Video Demo di YouTube](https://youtu.be/DF9FceEXIM8)
+  <br>
+  <br>
 </h1>
 
 # anton-color

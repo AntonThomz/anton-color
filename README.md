@@ -4,7 +4,7 @@
   <br>
     Video Demo
     <br>
-    [Tonton Video Demo di YouTube](https://youtu.be/DF9FceEXIM8)
+    ![Demo GIF](media/anton_Dynamic.gif)
   <br>
   <br>
 </h1>

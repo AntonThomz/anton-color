@@ -1,14 +1,3 @@
-# Contoh Pewarna Dynamic
-
-<h1 align="center">
-  <br>
-    Video Demo
-    <br>
-    ![Demo GIF](media/anton_Dynamic.gif)
-  <br>
-  <br>
-</h1>
-
 # anton-color
 
 `anton-color` adalah sebuah modul sederhana yang memungkinkan kamu untuk mencetak teks berwarna di terminal dengan berbagai variasi warna, baik untuk teks maupun latar belakang. Selain itu, modul ini juga mendukung efek warna dinamis untuk membuat tampilan terminal lebih menarik.
@@ -112,4 +101,4 @@ Dynamic('Dynamic Shifting Colors in Action!');
 
 ## report bug
 
-<span style="color: red;">[Report bug](https://wa.me/6283198645688)</span># anton-color
+<span style="color: red;">[Report bug](https://wa.me/6283198645688)</span>

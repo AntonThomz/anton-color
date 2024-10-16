@@ -1,0 +1,33 @@
+{
+  "name": "anton-color",
+  "version": "1.0.0",
+  "description": "anton-color adalah perpaduan sempurna untuk mempercantik tampilan teks di konsol Anda. Mendukung warna True Color (24-bit) dan 256 warna, memberikan fleksibilitas tanpa batas untuk kreativitas visual dalam terminal.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AntonThomz/anton-color"
+  },
+  "keywords": [
+    "color",
+    "console",
+    "ansi",
+    "truecolor",
+    "terminal",
+    "colors",
+    "dynamic",
+    "background",
+    "anton-color"
+  ],
+  "author": "Anton Thomz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AntonThomz/anton-color/issues"
+  },
+  "homepage": "https://github.com/AntonThomz/anton-color#readme",
+  "dependencies": {
+    "readline": "^1.3.0"
+  }
+}
